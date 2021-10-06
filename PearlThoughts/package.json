@@ -1,0 +1,34 @@
+{
+  "name": "automationcode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "rest-assured": "rest-assured",
+    "cypress:open": "cypress open"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.15.5",
+    "@babel/preset-env": "^7.15.6",
+    "@babel/preset-typescript": "^7.15.0",
+    "@krisinc/node-rest-assured": "^0.2.1",
+    "@types/jest": "^27.0.2",
+    "babel-jest": "^27.2.4",
+    "cypress": "^8.5.0",
+    "jest": "^27.2.4",
+    "node-xlsx": "^0.17.2",
+    "rest-assured": "^0.1.0",
+    "supertest": "^6.1.6",
+    "ts-node-dev": "^1.1.8"
+  },
+  "dependencies": {
+    "date-fns": "^2.24.0",
+    "jest-html-reporter": "^3.4.1",
+    "js-logger": "^1.6.1",
+    "tunnel-agent": "^0.6.0"
+  }
+}

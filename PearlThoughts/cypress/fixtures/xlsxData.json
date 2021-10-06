@@ -1,0 +1,11 @@
+{
+  "rows": [
+    {
+      "id": 1,
+      "status": 200,
+      "username": "KK",
+      "password": "pwd1234566",
+      "message": "Registration successful"
+    }
+  ]
+}
